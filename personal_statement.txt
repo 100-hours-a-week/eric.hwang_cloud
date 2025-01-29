@@ -1,0 +1,7 @@
+this is a personal statment text file for eric hwang
+<<<<<<< HEAD
+개발자로서의 포부
+=======
+
+this has been modified in the sub2 branch
+>>>>>>> sub2
